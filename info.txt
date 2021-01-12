@@ -1,0 +1,9 @@
+connect to mongo DB:
+
+- with the MongoDB Node.JS Driver > npm i mongodb (have to write manual querries)
+
+- with mongoose (wraps the native drivers) > npm install --save mongoose @nestjs/mongoose
+
+mongoose types
+
+- npm install --save-dev @types/mongoose
